@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zijie Liu"
-title_separator          : "-"
+title                    : "Zijie Liu / Home"
+title_separator          : ""
 name                     : &name "Zijie Liu"
 description              : &description "personal description"
 url                      : https://jesseLiu2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Zijie Liu"
   avatar           : "pic.jpg"
   bio              : "Master student at Washington University in St. Louis"
-  location         : # "Location"
+  location         : "St. Louis, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
