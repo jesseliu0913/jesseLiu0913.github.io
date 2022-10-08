@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Zijie, a master's student in McKelvey School of Engineering at Washington University in St. Louis, majoring in computer science, and I am also a member of WashU NLP group advised by Prof. Chenguang Wang.
 
-I have gained my BS degree in 2022.
+<!-- I have gained my BS degree in 2022. -->
 
 My research interest includes Multimodel Fusion, Sentimental Analysis (mainly Sarcasm Detection) and Structural Prediction.
 
@@ -18,4 +18,5 @@ I have done some projects about NLU during my undergraduate period, and I build 
 
 Now, I want to explore meta Learning and zero-shot Learning, I want to try different methods to optimize my sarcasm detection model, so if you have any interests in those aspects, feel free to contact me!
 
-[![Page Views Count](https://badges.toozhao.com/badges/01GEKFNKNG26BXWT1T6G113FDB/blue.svg)](https://badges.toozhao.com/stats/01GEKFNKNG26BXWT1T6G113FDB "Get your own page views count badge on badges.toozhao.com")
+<!-- [![Page Views Count](https://badges.toozhao.com/badges/01GEKFNKNG26BXWT1T6G113FDB/blue.svg)](https://badges.toozhao.com/stats/01GEKFNKNG26BXWT1T6G113FDB "Get your own page views count badge on badges.toozhao.com")
+ -->
