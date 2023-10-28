@@ -15,5 +15,5 @@ Hello there! My name's Jubai, a radiant ginger cat about to turn two. My first y
 ## Zhongwang Wang (王中王）
 Hi! I am Zhongwang, a jianzhou cat. In the vast playground beneath Mountain Tai's towering trees, I revel in my freedom, choosing whimsy over stability. Each day, I'm showered with affection from my mother and sister, and I savor the delectable tastes of chicken breast and ham hocks. My cozy den shields me from the cold, and the kind-hearted humans I've met along the way have left paw prints on my heart. Now, as I bask in the joys of Meowstar, surrounded by fellow kittens, I eagerly await my next earthly adventure!
 <center>
-<img src="zhongwang.jpg" alt="Zhongwang" width="300"/>
+<img src="https://github.com/jesseLiu2000/jesseLiu2000.github.io/blob/4a528f0321afbc8d96ee169c23e01be35fb909b1/_pages/zhongwang.jpg" alt="Zhongwang" width="300"/>
 </center>
