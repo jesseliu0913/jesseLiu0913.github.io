@@ -1,11 +1,9 @@
 ---
-permalink: /
-title: "Zijie Liu"
-excerpt: "About me"
+layout: archive
+title: "CATS"
+permalink: /cats/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+
 
 
