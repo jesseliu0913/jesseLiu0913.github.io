@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Zijie, a master student in Washington University in St. Louis, majoring in computer science, and I am also a member of WashU NLP group advised by Prof. Chenguang Wang.
 
-<!-- I have gained my BS degree in 2022. -->
+Hi! I am Zijie, a master student at Washington University in St. Louis, majoring in computer science. In my first year, I was RA in the WashU NLP group, advised by Prof. Chenguang. Now, I work with Prof. William and Prof. CJ on my Master Project.
 
-My research interest includes Multimodel Fusion, Sentimental Analysis (mainly Sarcasm Detection) and Prompt Learning.
+My research interests include Multimodel Fusion, Multi-Arm Bandits and AI for healthcare.
 
-I have done some projects about NLU during my undergraduate period, and I build a multi-layer fusion model based on attention mechanism for my undergraudate thesis. I have arranged some projects covering fundamental CV and NLU, which I have done in my undergraduate period, and then I have push them on my Github. 
+I have tried several projects related to Computer Vision and Natural Language Processing during my undergraduate and graduate years. Currently, I mainly work on the explainability of large models through different methods.
 
-Recently, I update some NLP foundamental programs on my github, mainly arrounding how to use the basic NN (RNN/LSTM..) to finish the simple language task.
 
-I will pursuit my PhD degree in 2024.
+
+I will be applying for a PhD in 2024.
 <!-- [![Page Views Count](https://badges.toozhao.com/badges/01GEKFNKNG26BXWT1T6G113FDB/blue.svg)](https://badges.toozhao.com/stats/01GEKFNKNG26BXWT1T6G113FDB "Get your own page views count badge on badges.toozhao.com")
  -->
