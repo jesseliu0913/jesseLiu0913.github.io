@@ -17,6 +17,6 @@ I have tried several projects related to Computer Vision and Natural Language Pr
 
 In the future, I intend to explore the application of these skills to challenges within the realm of medicine and healthcare.
 
-I will be applying for a PhD in 2024.
+
 <!-- [![Page Views Count](https://badges.toozhao.com/badges/01GEKFNKNG26BXWT1T6G113FDB/blue.svg)](https://badges.toozhao.com/stats/01GEKFNKNG26BXWT1T6G113FDB "Get your own page views count badge on badges.toozhao.com")
  -->
