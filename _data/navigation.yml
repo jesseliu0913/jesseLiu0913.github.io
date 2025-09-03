@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Jobs"
-    url: /jobs/
+  # - title: "Jobs"
+  #   url: /jobs/
 
   - title: "CATs"
     url: /cats/ 
