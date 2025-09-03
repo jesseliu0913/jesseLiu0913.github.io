@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jesse / Home"
+title                    : "Zijie / Home"
 title_separator          : ""
 name                     : &name "Zijie Liu"
 description              : &description "personal description"
 url                      : https://jesseLiu2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jesseLiu2000/jesseLiu2000.github.io"
+repository               : "https://jesseliu0913.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jesse Liu"
+  name             : "Zijie Liu"
   avatar           : "pic.jpg"
   bio              : "Master student in WashU"
   location         : "St. Louis, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "jesseliu2000@gmail.com"
+  email            : "l.zijie.work@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jesseLiu2000"
+  github           : "jesseliu0913"
   google_plus      :
   keybase          :
   instagram        :
