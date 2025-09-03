@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zijie Liu"
-  avatar           : "pic.jpg"
+  avatar           : "/images/pic.jpg"
   bio              : "PhD Student at UNC"
   location         : "Chapel Hill, US"
   employer         :
